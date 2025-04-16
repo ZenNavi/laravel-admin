@@ -6,12 +6,12 @@ A Laravel package for creating an admin panel with authentication.
 
 1. Install via Composer:
    ```bash
-   composer require your-vendor/laravel-admin
+   composer require zennavi/laravel-admin
    ```
 
 2. Publish assets:
    ```bash
-   php artisan vendor:publish --provider="YourVendor\LaravelAdmin\LaravelAdminServiceProvider"
+   php artisan vendor:publish --provider="ZenNavi\LaravelAdmin\LaravelAdminServiceProvider"
    ```
 
 3. Run migrations:
