@@ -5,19 +5,19 @@ A Laravel package for creating an admin panel with authentication.
 ## Installation
 
 1. Install via Composer:
-   \`\`\`bash
+   ```bash
    composer require your-vendor/laravel-admin
-   \`\`\`
+   ```
 
 2. Publish assets:
-   \`\`\`bash
+   ```bash
    php artisan vendor:publish --provider="YourVendor\LaravelAdmin\LaravelAdminServiceProvider"
-   \`\`\`
+   ```
 
 3. Run migrations:
-   \`\`\`bash
+   ```bash
    php artisan migrate
-   \`\`\`
+   ```
 
 ## Usage
 
