@@ -3,7 +3,6 @@
     "description": "A Laravel Admin Panel Package",
     "type": "library",
     "keywords": ["laravel", "admin", "panel"],
-    "version": "1.0.1",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
