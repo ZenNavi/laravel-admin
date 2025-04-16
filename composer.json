@@ -1,6 +1,6 @@
 {
     "name": "zennavi/laravel-admin",
-    "description": "A Laravel Admin Panel Package",
+    "description": "A Laravel Admin Panel Package.",
     "type": "library",
     "keywords": ["laravel", "admin", "panel"],
     "require": {
