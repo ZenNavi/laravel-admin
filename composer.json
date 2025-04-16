@@ -2,6 +2,8 @@
     "name": "zennavi/laravel-admin",
     "description": "A Laravel Admin Panel Package",
     "type": "library",
+    "keywords": ["laravel", "admin", "panel"],
+    "version": "1.0.0",
     "require": {
         "php": "^8.1",
         "laravel/framework": "^10.0",
